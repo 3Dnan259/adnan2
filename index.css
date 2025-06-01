@@ -225,3 +225,10 @@ header a:hover {
 i[class*='van-type-'] {
     padding: 7px 14px;
 }
+
+footer{
+    font-size: 250px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 30px;
+}
